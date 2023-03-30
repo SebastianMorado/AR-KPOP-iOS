@@ -2,6 +2,7 @@
 
 Press image below to watch demo.
 
+[![Demo](http://img.youtube.com/vi/Ek4pWcFj7GI/0.jpg)](https://www.youtube.com/watch?v=Ek4pWcFj7GI "AR KPOP iOS Demo")
 
 ## What is it?
 
